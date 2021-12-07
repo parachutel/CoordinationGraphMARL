@@ -21,7 +21,7 @@ import curses
 import gym
 import numpy as np
 from gym import spaces
-from envs.traffic_junction_new.traffic_helper import *
+from envs.traffic_junction.traffic_helper import *
 # from traffic_helper import *
 import copy
 
