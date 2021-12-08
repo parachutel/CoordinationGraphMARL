@@ -1,7 +1,3 @@
-## Research Doc
-
-https://docs.google.com/document/d/1inCNIR2s-0SK7oPD-l3PR0ItI0t4kIBA8F43G7V9BMs/edit?usp=sharing
-
 ## Run Training
 Launch **basic** training with command: 
 `python cg_runner.py --policy <policy> --env <env>`.
